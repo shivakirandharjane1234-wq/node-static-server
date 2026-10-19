@@ -1,0 +1,14 @@
+{
+    "name":"node-static-server",
+    "version":"1.0.0",
+    "description": "A static file server built with only Node.js Core modules",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "engines": {
+        "node": ">=18"
+    },
+    "license":"MIT"
+    
+}
